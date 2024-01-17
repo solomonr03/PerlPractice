@@ -5,7 +5,7 @@ use strict;
 use warnings;
 
 #Functions and Statements
-print "Hi Solomon!\n";
+print "Hi Name!\n";
 
 print "This is a single staement.\n";
 
